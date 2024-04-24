@@ -6,8 +6,6 @@
 🌱 I’m currently learning C++, C, Dart and Kotlin<br>
 ⚡ I've become addicted to climbing 🧗 and biking 🚴🏻
 
-![](https://komarev.com/ghpvc/?username=Ribas13&style=flat-square&abbreviated=true)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diogosribeiro99) 
 
