@@ -1,6 +1,10 @@
 # Diogo Ribeiro
 ## 💫 About Me:
-🔭 I’m currently working on my C++ skills<br>👯 I’m looking to collaborate on app building in Kotlin and Dart<br>🌱 I’m currently learning C++, C, Dart and Kotlin<br>⚡ I've become addicted to climbing 🧗 and biking 🚴🏻
+📚 Programming student @42lisboa<br>
+🔭 I’m currently working on my C++ skills<br>
+👯 I’m looking to collaborate on app building in Kotlin and Dart<br>
+🌱 I’m currently learning C++, C, Dart and Kotlin<br>
+⚡ I've become addicted to climbing 🧗 and biking 🚴🏻
 
 ![](https://komarev.com/ghpvc/?username=Ribas13&style=flat-square&abbreviated=true)
 
