@@ -1,4 +1,3 @@
-# Diogo Ribeiro
 ## 💫 About Me:
 📚 Programming student @42lisboa<br>
 🔭 I’m currently working on my C++ skills<br>
