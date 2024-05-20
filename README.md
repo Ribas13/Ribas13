@@ -8,7 +8,7 @@
 ## 💡 Project Highlights:
 [**Cub3d**](https://github.com/Ribas13/Cub3d) - a raycasting game 🕹️<br>
 [**Minishell**](https://github.com/Ribas13/minishell) - recreating a bash-like shell experience 💻<br>
-[**ToDo App**](https://github.com/Ribas13/Flutter_to_do_app) - my first flutter project 📱<br>
+[**ToDo App**](https://github.com/Ribas13/Flutter_to_do_app) - my first flutter mobile app project 📱<br>
 [**Planets**](https://github.com/Ribas13/planets_CSS) - CSS keyframes animations 🌐<br>
 
 ## 💻 Tech Stack:
