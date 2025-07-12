@@ -1,8 +1,7 @@
 ## 💫 About Me:
-📚 Software Engineer Wanabee<br>
+📚 Software Engineer<br>
 🔭 I’m currently working on my Kotlin skills<br>
 👯 I’m looking to collaborate on app development in Kotlin and Dart<br>
-🌱 I’m currently learning C++, C, Dart and Kotlin<br>
 ⚡ I've become addicted to climbing 🧗 and biking 🚴🏻
 
 ## 💡 Project Highlights:
